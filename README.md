@@ -14,7 +14,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sigurn/crc16"
+	"github.com/wxlbd/crc16"
 )
 
 func main() {
